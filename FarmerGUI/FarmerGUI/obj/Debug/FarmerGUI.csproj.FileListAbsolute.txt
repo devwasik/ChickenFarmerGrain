@@ -1,0 +1,18 @@
+c:\users\nick\documents\visual studio 2013\Projects\FarmerGUI\FarmerGUI\bin\Debug\FarmerGUI.exe.config
+c:\users\nick\documents\visual studio 2013\Projects\FarmerGUI\FarmerGUI\bin\Debug\FarmerGUI.exe
+c:\users\nick\documents\visual studio 2013\Projects\FarmerGUI\FarmerGUI\bin\Debug\FarmerGUI.pdb
+c:\users\nick\documents\visual studio 2013\Projects\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2013\Projects\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.Form1.resources
+c:\users\nick\documents\visual studio 2013\Projects\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2013\Projects\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2013\Projects\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.exe
+c:\users\nick\documents\visual studio 2013\Projects\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.pdb
+C:\Users\nick\Google Drive\School\Fall 2015\Intermediate OOP\FarmerGUI\FarmerGUI\bin\Debug\FarmerGUI.exe.config
+C:\Users\nick\Google Drive\School\Fall 2015\Intermediate OOP\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.exe
+C:\Users\nick\Google Drive\School\Fall 2015\Intermediate OOP\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.pdb
+C:\Users\nick\Google Drive\School\Fall 2015\Intermediate OOP\FarmerGUI\FarmerGUI\bin\Debug\FarmerGUI.exe
+C:\Users\nick\Google Drive\School\Fall 2015\Intermediate OOP\FarmerGUI\FarmerGUI\bin\Debug\FarmerGUI.pdb
+C:\Users\nick\Google Drive\School\Fall 2015\Intermediate OOP\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.csprojResolveAssemblyReference.cache
+C:\Users\nick\Google Drive\School\Fall 2015\Intermediate OOP\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.Form1.resources
+C:\Users\nick\Google Drive\School\Fall 2015\Intermediate OOP\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.Properties.Resources.resources
+C:\Users\nick\Google Drive\School\Fall 2015\Intermediate OOP\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.csproj.GenerateResource.Cache
